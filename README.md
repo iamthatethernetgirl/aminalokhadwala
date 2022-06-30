@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theethernetgirl
+- 👋 Hi, I’m @iamthatethernetgirl
 - 👀 I’m interested in ... you
 - 🌱 I’m currently learning ... you
 - 📫 How to reach me ...
