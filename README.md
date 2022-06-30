@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amina
-- 👀 I’m interested in you
-- 🌱 I’m currently learning you
+- 👋 Hi, I’m @theethernetgirl
+- 👀 I’m interested in ... you
+- 🌱 I’m currently learning ... you
 - 📫 How to reach me ...
 
 <!---
